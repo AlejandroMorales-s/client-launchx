@@ -7,7 +7,13 @@
           <router-link to="/explorers" class="nav-link">Explorers</router-link>
         </li>
         <li class="nav-item">
+          <router-link to="/partner" class="nav-link">Partners</router-link>
+        </li>
+        <li class="nav-item">
           <router-link to="/add" class="nav-link">Agregar Explorer</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="/addpartner" class="nav-link">Agregar Partner</router-link>
         </li>
       </div>
     </nav>
